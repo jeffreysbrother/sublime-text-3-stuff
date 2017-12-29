@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+// --------------------------------------------------
+// ${1}
+${2}
+// END ${1}
+// --------------------------------------------------
+]]></content>
+	<tabTrigger>both---</tabTrigger>
+	<scope>source.css.less, source.less, source.sass, source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+@media (${1:max}-width: @width${2:Mobile}) {
+	${3}
+}${4}
+]]></content>
+	<tabTrigger>media</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

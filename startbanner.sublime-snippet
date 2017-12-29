@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// --------------------------------------------------
+// 
+]]></content>
+	<tabTrigger>start---</tabTrigger>
+	<scope>source.css.less, source.less, source.sass, source.js</scope>
+</snippet>

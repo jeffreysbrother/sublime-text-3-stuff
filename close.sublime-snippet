@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php } ?>
+]]></content>
+	<tabTrigger>close</tabTrigger>
+	<scope>source.php, text.html, text.html.twig</scope>
+</snippet>

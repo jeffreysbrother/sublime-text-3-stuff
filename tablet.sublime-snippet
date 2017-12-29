@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@media only screen
+	and (min-device-width : 768px)
+	and (max-device-width : 1024px)
+	and (orientation : ${1:portrait}) {
+		${2}
+}
+]]></content>
+	<tabTrigger>tablet</tabTrigger>
+	<scope>source.less</scope>
+</snippet>
