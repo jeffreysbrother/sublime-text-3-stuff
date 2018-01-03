@@ -3,12 +3,14 @@
 	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Soft) NDC.tmTheme",
 	"create_window_at_startup": false,
 	"font_size": 14,
+	"ignored_packages":
+	[
+	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"match_selection": false,
 	"theme": "Adaptive.sublime-theme",
-	"word_wrap": true,
-	"ignored_packages": [],
+	"vintage_ctrl_keys": true,
 	"vintage_start_in_command_mode": true,
-	"vintage_ctrl_keys": true
+	"word_wrap": true
 }
